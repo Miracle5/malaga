@@ -1,0 +1,32 @@
+
+ul {color: yellow;
+}
+p {
+    color: red;
+}
+li {
+    color: blue;
+}
+
+.blue{color: blue;}
+.red{color: green}
+
+
+
+#navigation {
+    background-color: red;
+    height: 50px;
+    width: auto;
+}
+
+.main {
+    background-color: blue;
+    width: 200px;
+    margin: 0 auto;
+    height: 50px;
+}
+.move {
+    background-color: red;
+    margin: 100px;
+    padding: 100px;
+}
